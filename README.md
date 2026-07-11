@@ -10,3 +10,6 @@ A collection of small Python projects built while learning.
 ## Author
 
 Dav3
+
+## Inspiration 
+https://roadmap.sh/projects/number-guessing-game
